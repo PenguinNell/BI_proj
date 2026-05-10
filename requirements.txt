@@ -1,0 +1,14 @@
+scanpy
+pandas
+numpy
+scipy
+liana
+cell2cell
+anndata
+plotnine
+decoupler
+tensorly
+statsmodels
+seaborn
+matplotlib
+pyarrow
