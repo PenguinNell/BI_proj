@@ -1,0 +1,2 @@
+run_name,MIN_CELL,EXPR_PROP,MIN_DONORS,n_rows_liana_res,n_rows_liana_res_filt,n_unique_lr_pairs_filt,n_unique_ccc_lr_filt
+mincell_30__exprprop_0p2__mindonors_13,30,0.2,13,457328,205119,718,7011
